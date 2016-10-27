@@ -1,0 +1,8 @@
+"dmpasscode_enter_new_code" = "Entra nuovo codice";
+"dmpasscode_enter_to_unlock" = "Entra codice per sblocare";
+"dmpasscode_repeat" = "Ripeti codice";
+"dmpasscode_not_match" = "I tuoi codici non son uguali.\nProva di nuovo.";
+"dmpasscode_okay" = "Ok";
+"dmpasscode_n_left" = "%i prove rimaste";
+"dmpasscode_1_left" = "1 prova rimasta";
+"dmpasscode_touchid_reason" = "Autenticati per accedere alle funzionalità complete.";
