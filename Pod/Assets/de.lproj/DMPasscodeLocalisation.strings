@@ -1,0 +1,8 @@
+"Dmpasscode_enter_new_code" = "Neuen Code eingeben";
+"Dmpasscode_enter_to_unlock" = "Code zum Entsperren eingeben";
+"Dmpasscode_repeat" = "Code wiederholen";
+"Dmpasscode_not_match" = "Ihre Codes stimmen nicht überein.\nBitte versuchen Sie es erneut.";
+"Dmpasscode_okay" = "Okay";
+"Dmpasscode_n_left" = "%i verbleibende Versuche";
+"Dmpasscode_1_left" = "1 Versuch verbleibend";
+"Dmpasscode_touchid_reason" = "Melde dich an, um die gesperrte Funktionen zugreifen.";
