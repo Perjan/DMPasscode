@@ -1,8 +1,8 @@
-"Dmpasscode_enter_new_code" = "Entrez le nouveau code";
-"Dmpasscode_enter_to_unlock" = "Entrez le code pour déverrouiller";
-"Dmpasscode_repeat" = "code Repeat";
-"Dmpasscode_not_match" = "Votre code ne correspond.\nVeuillez essayer à nouveau..";
-"Dmpasscode_okay" = "OK";
-"Dmpasscode_n_left" = "% i tentatives gauche";
-"Dmpasscode_1_left" = "1 tentative gauche";
-"Dmpasscode_touchid_reason" = "Authentifier pour accéder fonction verrouillée.";
+"dmpasscode_enter_new_code" = "Entrez le nouveau code";
+"dmpasscode_enter_to_unlock" = "Entrez le code pour déverrouiller";
+"dmpasscode_repeat" = "code Repeat";
+"dmpasscode_not_match" = "Votre code ne correspond.\nVeuillez essayer à nouveau..";
+"dmpasscode_okay" = "OK";
+"dmpasscode_n_left" = "% i tentatives gauche";
+"dmpasscode_1_left" = "1 tentative gauche";
+"dmpasscode_touchid_reason" = "Authentifier pour accéder fonction verrouillée.";
