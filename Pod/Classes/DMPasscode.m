@@ -50,7 +50,7 @@ NSString * const DMUnlockErrorDomain = @"com.dmpasscode.error.unlock";
 }
 
 + (NSBundle*)bundleWithName:(NSString*)name {
-    NSString* mainBundlePath = [[NSBundle mainBundle] resourcePath];
+    NSString* mainBundlePath = [[NSBundle bundleForClass:[DMPasscode class]] resourcePath];
     NSString* frameworkBundlePath = [mainBundlePath stringByAppendingPathComponent:name];
     if ([[NSFileManager defaultManager] fileExistsAtPath:frameworkBundlePath]){
         return [NSBundle bundleWithPath:frameworkBundlePath];
